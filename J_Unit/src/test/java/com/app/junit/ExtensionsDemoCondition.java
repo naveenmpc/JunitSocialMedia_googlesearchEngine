@@ -15,7 +15,7 @@ public class ExtensionsDemoCondition {
 	
     
 	@Test
-	@EnabledOnOs(OS.MAC)  // Condition to check if my laptops OS is Mac, then execute the test
+	@EnabledOnOs(OS.Mac)  // Condition to check if my laptops OS is Mac, then execute the test
 	public void conditionOS()
 	{
 		System.out.println("Executed Test cases on Mac");
