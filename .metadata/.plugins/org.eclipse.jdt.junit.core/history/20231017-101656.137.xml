@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="IncludeExcludeTags" project="J_Unit" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="com.app.junit.IncludeExcludeTags" time="0.0" displayname="IncludeExcludeTags" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]">
+    <testcase name="prodTest1" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="prodTest1()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:prodTest1()]"/>
+    <testcase name="prodtest2" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="prodtest2()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:prodtest2()]"/>
+    <testcase name="qatest1" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="qatest1()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:qatest1()]"/>
+    <testcase name="qatest2" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="qatest2()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:qatest2()]"/>
+    <testcase name="devTest2" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="devTest2()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:devTest2()]"/>
+    <testcase name="devtest1" classname="com.app.junit.IncludeExcludeTags" time="0.0" displayname="devtest1()" uniqueid="[engine:junit-jupiter]/[class:com.app.junit.IncludeExcludeTags]/[method:devtest1()]"/>
+  </testsuite>
+</testrun>

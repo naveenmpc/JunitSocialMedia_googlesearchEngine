@@ -1,0 +1,10 @@
+package com.app.junit;
+
+public class TestAnnotation {
+
+	@test
+	public void Method1()
+	{
+		System.out.println("Helllo World");
+	}
+}

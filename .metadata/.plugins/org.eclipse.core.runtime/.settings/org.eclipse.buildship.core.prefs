@@ -1,0 +1,12 @@
+arguments=
+auto.sync=true
+eclipse.preferences.version=1
+experimental.module.support=false
+gradle.build.scans=true
+gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+gradle.offline.mode=true
+gradle.user.home=C\:\\Users\\mnave\\.gradle
+java.home=C\:\\Program Files\\Java\\jdk-11
+jvm.arguments=
+show.console.view=true
+show.executions.view=true

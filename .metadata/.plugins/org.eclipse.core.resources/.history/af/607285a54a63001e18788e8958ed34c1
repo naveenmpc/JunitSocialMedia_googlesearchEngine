@@ -1,0 +1,5 @@
+package com.app.TestNgScripts;
+
+public class AfterBeforeClass {
+
+}
