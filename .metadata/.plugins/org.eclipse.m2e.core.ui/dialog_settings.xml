@@ -3,6 +3,7 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="C:\Users\mnave\eclipse-workspace"/>
+			<item value="C:\Users\mnave\eclipse-workspace\Lesson5-CucumberDemo"/>
 			<item value="C:\Users\mnave\eclipse-workspace\selenium_Basics"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -27,13 +28,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="Lesson5_CucumberDemo.Lesson5_CucumberDemo"/>
 		</list>
 		<list key="groupId">
-			<item value="Lesson5-CucumberDemo"/>
 		</list>
 		<list key="artifactId">
-			<item value="Lesson5-CucumberDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -49,10 +47,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Phaseend2Project"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Phaseend2Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

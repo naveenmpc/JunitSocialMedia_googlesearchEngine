@@ -1,7 +1,0 @@
-package com.app.junit;
-
-public class OS {
-
-	public static final org.junit.jupiter.api.condition.OS[] MAC = null;
-
-}
