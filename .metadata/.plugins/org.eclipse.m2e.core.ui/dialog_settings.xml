@@ -3,6 +3,7 @@
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 			<item value="C:\Users\mnave\eclipse-workspace"/>
+			<item value="C:\Users\mnave\eclipse-workspace\ATE-Phase3-RestAssured\src\test\java\restassureScripts\Script09PaypolAuthenticate.java"/>
 			<item value="C:\Users\mnave\eclipse-workspace\Lesson5-CucumberDemo"/>
 			<item value="C:\Users\mnave\eclipse-workspace\selenium_Basics"/>
 		</list>
@@ -28,10 +29,22 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Cucumber_s2.Cucumber_s2"/>
+			<item value="Selenium_S2.Selenium_S2"/>
+			<item value="ATE_Capstone_Project1.ATE_Capstone_Project1"/>
+			<item value="ATE_Capstone_Project.ATE_Capstone_Project"/>
 		</list>
 		<list key="groupId">
+			<item value="Cucumber-s2"/>
+			<item value="Selenium-S2"/>
+			<item value="ATE_Capstone-Project1"/>
+			<item value="ATE_Capstone-Project"/>
 		</list>
 		<list key="artifactId">
+			<item value="Cucumber-s2"/>
+			<item value="Selenium-S2"/>
+			<item value="ATE_Capstone-Project1"/>
+			<item value="ATE_Capstone-Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,12 +60,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="Phaseend2Project"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Phaseend2Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
